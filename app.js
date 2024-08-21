@@ -1,3 +1,6 @@
+// Questions Starts
+
+
 // Chapter 21
 
 // Question 1
@@ -192,29 +195,5 @@
 // var num = 3.1234567
 // alert(num.toFixed(2))
 
-// Question 5
-// 
 
-// Question 6
-
-
-// Chapter 30
-
-// Question 1
-// 
-
-// Question 2
-// 
-
-// Question 3
-// 
- 
-// Question 4
-// 
-
-// Question 5
-// 
-
-// Question 6
-
-
+// Questions Finished
